@@ -15,10 +15,11 @@ body {
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
-	font-family: 'Baskerville', serif;
+	
 }
 h1{
 	font-size: 5em;
+	font-family: 'Baskerville', serif;
 }
 
 /* Write all remaining styles here */
