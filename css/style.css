@@ -21,4 +21,7 @@ h1{
 	font-family: 'Baskerville', serif;
 }
 
+a img{
+	border: 5px rgb(111,127,122) solid;
+}
 /* Write all remaining styles here */
