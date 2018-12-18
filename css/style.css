@@ -22,7 +22,9 @@ img{
 h1{
 	font-size: 5em;
 	color: rgb(152,173,166);
-	margin: 0px 0px 5px
+	margin: 0px 0px 5px;
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 10px;
 	font-family: 'Baskerville', serif;
 }
 
